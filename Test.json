@@ -1,12 +1,16 @@
-{
-  "showAnnouncement": false,
-  "announcementText": "⚠ New V2 Update Available!",
-
-  "showContactButton": true,
-  "contactButtonText": "CONTACT ME",
-  "contactButtonUrl": "https://t.me/dp_mods",
-
-  "showAnnouncementButton": false,
-  "announcementButtonText": "DOWNLOAD MOD",
-  "announcementButtonUrl": "https://yourdownloadlink.com"
-}
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "buii",
+    "password": "tuyen",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
